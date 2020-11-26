@@ -1,0 +1,39 @@
+html{
+    background-image: url(img/fondo.jpg);
+}
+
+p{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+body{
+    border: 1px solid white;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+h2{
+    color: #FFFFFF;
+    font-size: 2.0rem;
+    font-family: Arial;
+}
+
+h3{
+    color: #FFFFFF;
+    font-size: 1.7rem;
+    font-family: Arial;
+}
+
+form{
+    text-align: center;
+}
+
+div{
+    background-color: #4B0082;
+}
